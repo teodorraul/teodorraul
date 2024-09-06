@@ -1,11 +1,11 @@
 <h1>Hey. I'm Teo.</h1>
 <h3>I tackle software problems with design and code.</h3>
 
-- You can find me at [teodorraul.com](teodorraul.com), sometimes I write about software related things I care about.
+- You can find me at [teodorraul.com](teodorraul.com), sometimes I write about **software related things I care about.**
 
 - You can find my **work experience** at [teodorraul.com/work](teodorraul.com/work).
 
-- A list of the project I've worked on can also be found at [teodorraul.com/projects](teodorraul.com/projects)
+- A list of the **projects I've worked** on can also be found at [teodorraul.com/projects](teodorraul.com/projects)
 
 <h3 align="left">Languages and Tools I work with:</h3>
 <p>
